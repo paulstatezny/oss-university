@@ -1,0 +1,1 @@
+You can use the `global` keyword to declare a global variable
