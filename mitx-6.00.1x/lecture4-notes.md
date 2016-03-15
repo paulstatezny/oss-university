@@ -7,6 +7,6 @@ def incrementValue(x):
 	'''
 	lol some multiline comment
 	'''
-	return x + 1;
+	return x + 1
 ```
 
